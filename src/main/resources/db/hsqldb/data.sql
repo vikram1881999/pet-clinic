@@ -21,7 +21,7 @@ INSERT INTO types VALUES (3, 'lizard');
 INSERT INTO types VALUES (4, 'snake');
 INSERT INTO types VALUES (5, 'bird');
 INSERT INTO types VALUES (6, 'hamster');
-INSERT INTO types VALUES (7, 'horse');
+INSERT INTO types VALUES (7, 'pony');
 INSERT INTO types VALUES (8, 'cow');
 
 INSERT INTO owners VALUES (1, 'George', 'Franklin', '110 W. Liberty St.', 'Madison', '6085551023');
