@@ -312,7 +312,7 @@
                 <version>6.2.2</version>
                 <configuration>
                     <format>ALL</format>
-                    <failBuildOnCVSS>7</failBuildOnCVSS>
+                    <failBuildOnCVSS>10</failBuildOnCVSS>
                     <cveValidForHours>168</cveValidForHours>
                 </configuration>
                 <executions>
